@@ -1,2 +1,2 @@
-# Selenium_Framework
+# Automation_Framework
 Selenium with Java
